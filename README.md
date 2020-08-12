@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Je voulais juste creer un github.io et me voila avoir trover un grand secret :o 
+Je voulais juste creer un github.io et me voila avoir trouver un grand secret 😮
 
 <!--
 **Kyowdem/Kyowdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
